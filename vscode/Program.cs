@@ -40,6 +40,43 @@ namespace campoMinado
                     bombasPosicionadas++;
                 }
             } while (bombasPosicionadas < 5);
+
+            //Interação do usuário
+            bool fimJogo = false;
+            do
+            {
+                for (int l = 0; l < qtdLinhas; l++)
+                {
+                    for (int c = 0; c < qtdColunas; c++)
+                    {
+                        Console.WriteLine(string.Format("{0}", jogo[l, c]));
+                    }
+                    Console.WriteLine(Environment.NewLine + Environment.NewLine);
+                }
+                Console.WriteLine("Selecione uma linha entre 1 e 10: ");
+                linha = Convert.ToInt32(Console.ReadLine()) - 1;
+                Console.WriteLine("Seleciona uma coluna entre 1 e 10: ");
+                coluna = Convert.ToInt32(Console.ReadLine()) - 1;
+
+                switch (campo[linha, coluna])
+                {
+                    case 0:
+                        jogo[linha, coluna] = 0;
+                        Console.WriteLine("Continue tentando.\n\n");
+                        break;
+
+                    case 1:
+                        jogo[linha, coluna] = 1;
+                        Console.WriteLine("BOOM!!! Você perdeu...\n\n");
+                        fimJogo = true;
+
+                    default:
+                        jogo[linha, coluna] = 2;
+                        Console.WriteLine("Parabéns!!! Você ganhou! \n\n");
+                        fimJogo = true;
+                        break;
+                }
+            } while (!fimJogo);
         }
     }
 }
