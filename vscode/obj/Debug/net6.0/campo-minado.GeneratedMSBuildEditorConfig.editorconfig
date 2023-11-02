@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = campo_minado
-build_property.ProjectDir = C:\Users\ferna\Documents\dev\campo-minado\vscode\
+build_property.RootNamespace = graduation_campo_minado
+build_property.ProjectDir = C:\Users\ferna\Documents\dev\graduation-campo-minado\vscode\
