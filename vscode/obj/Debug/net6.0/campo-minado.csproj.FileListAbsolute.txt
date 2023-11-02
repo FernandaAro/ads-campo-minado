@@ -1,0 +1,15 @@
+C:\Users\ferna\Documents\dev\campo-minado\vscode\obj\Debug\net6.0\campo-minado.csproj.AssemblyReference.cache
+C:\Users\ferna\Documents\dev\campo-minado\vscode\obj\Debug\net6.0\campo-minado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\Documents\dev\campo-minado\vscode\obj\Debug\net6.0\campo-minado.AssemblyInfoInputs.cache
+C:\Users\ferna\Documents\dev\campo-minado\vscode\obj\Debug\net6.0\campo-minado.AssemblyInfo.cs
+C:\Users\ferna\Documents\dev\campo-minado\vscode\obj\Debug\net6.0\campo-minado.csproj.CoreCompileInputs.cache
+C:\Users\ferna\Documents\dev\campo-minado\vscode\bin\Debug\net6.0\campo-minado.exe
+C:\Users\ferna\Documents\dev\campo-minado\vscode\bin\Debug\net6.0\campo-minado.deps.json
+C:\Users\ferna\Documents\dev\campo-minado\vscode\bin\Debug\net6.0\campo-minado.runtimeconfig.json
+C:\Users\ferna\Documents\dev\campo-minado\vscode\bin\Debug\net6.0\campo-minado.dll
+C:\Users\ferna\Documents\dev\campo-minado\vscode\bin\Debug\net6.0\campo-minado.pdb
+C:\Users\ferna\Documents\dev\campo-minado\vscode\obj\Debug\net6.0\campo-minado.dll
+C:\Users\ferna\Documents\dev\campo-minado\vscode\obj\Debug\net6.0\refint\campo-minado.dll
+C:\Users\ferna\Documents\dev\campo-minado\vscode\obj\Debug\net6.0\campo-minado.pdb
+C:\Users\ferna\Documents\dev\campo-minado\vscode\obj\Debug\net6.0\campo-minado.genruntimeconfig.cache
+C:\Users\ferna\Documents\dev\campo-minado\vscode\obj\Debug\net6.0\ref\campo-minado.dll

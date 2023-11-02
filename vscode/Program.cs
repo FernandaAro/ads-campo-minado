@@ -49,13 +49,13 @@ namespace campoMinado
                 {
                     for (int c = 0; c < qtdColunas; c++)
                     {
-                        Console.WriteLine(string.Format("{0}", jogo[l, c]));
+                        Console.Write(string.Format("{0}", jogo[l, c]));
                     }
-                    Console.WriteLine(Environment.NewLine + Environment.NewLine);
+                    Console.Write(Environment.NewLine + Environment.NewLine);
                 }
-                Console.WriteLine("Selecione uma linha entre 1 e 10: ");
+                Console.Write("Selecione uma linha [1-10]: ");
                 linha = Convert.ToInt32(Console.ReadLine()) - 1;
-                Console.WriteLine("Seleciona uma coluna entre 1 e 10: ");
+                Console.Write("Seleciona uma coluna [1-10]: ");
                 coluna = Convert.ToInt32(Console.ReadLine()) - 1;
 
                 switch (campo[linha, coluna])
@@ -69,6 +69,7 @@ namespace campoMinado
                         jogo[linha, coluna] = 1;
                         Console.WriteLine("BOOM!!! Você perdeu...\n\n");
                         fimJogo = true;
+                        break;
 
                     default:
                         jogo[linha, coluna] = 2;
