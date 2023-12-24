@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ferna\\Documents\\dev\\study-campo-minado\\vscode\\campo-minado.csproj": {}
+    "C:\\Users\\ferna\\Documents\\dev\\ads-study-campo-minado\\vscode\\campo-minado.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ferna\\Documents\\dev\\study-campo-minado\\vscode\\campo-minado.csproj": {
+    "C:\\Users\\ferna\\Documents\\dev\\ads-study-campo-minado\\vscode\\campo-minado.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ferna\\Documents\\dev\\study-campo-minado\\vscode\\campo-minado.csproj",
+        "projectUniqueName": "C:\\Users\\ferna\\Documents\\dev\\ads-study-campo-minado\\vscode\\campo-minado.csproj",
         "projectName": "campo-minado",
-        "projectPath": "C:\\Users\\ferna\\Documents\\dev\\study-campo-minado\\vscode\\campo-minado.csproj",
+        "projectPath": "C:\\Users\\ferna\\Documents\\dev\\ads-study-campo-minado\\vscode\\campo-minado.csproj",
         "packagesPath": "C:\\Users\\ferna\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ferna\\Documents\\dev\\study-campo-minado\\vscode\\obj\\",
+        "outputPath": "C:\\Users\\ferna\\Documents\\dev\\ads-study-campo-minado\\vscode\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ferna\\AppData\\Roaming\\NuGet\\NuGet.Config"
